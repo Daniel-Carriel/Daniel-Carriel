@@ -1,5 +1,6 @@
 ### Olá eu sou o Daniel Carriel, apaixonado por tecnologia!! 👋😉
-#### Cursando Técnico em Desenvolvimento de Sistemas - Etec Uirapuru.
+#### Técnico em Desenvolvimento de Sistemas - Etec Uirapuru.
+#### Cursando Análise e Desenvolvimento de Sistemas - FAM (Faculdade das Américas).
 
 <div align="center">
   <a href="https://github.com/Daniel-Carriel">
