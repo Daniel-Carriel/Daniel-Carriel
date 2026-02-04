@@ -1,6 +1,29 @@
-### Olá eu sou o Daniel Carriel, apaixonado por tecnologia!! 👋😉
-#### Técnico em Desenvolvimento de Sistemas - Etec Uirapuru.
-#### Cursando Análise e Desenvolvimento de Sistemas - FAM (Faculdade das Américas).
+# Olá, eu sou o Daniel Carriel! 👋😉
+
+### 🎓 Formação Acadêmica
+## Técnico em Desenvolvimento de Sistemas - Etec Uirapuru
+## Graduando em Análise e Desenvolvimento de Sistemas - FAM
+
+---
+
+### 🚀 Meu Foco Atual
+## Desenvolvimento Backend com Python & Django
+*Atualmente focado em transformar processos manuais de negócios em aplicações web escaláveis.*
+
+---
+
+### 🛠️ Principais Projetos
+## [Gestor Financeiro Pessoal] - Java/Android
+## [ERP Folha de Pagamento] - Python/Django (Em andamento)
+
+---
+
+### 💻 Tecnologias e Habilidades
+## Python | Django | Java | SQL | Git | Lógica de Programação
+
+---
+
+📫 **Como me encontrar:** [daniel.carriel77@gmail.com](mailto:daniel.carriel77@gmail.com)
 
 <div align="center">
   <a href="https://github.com/Daniel-Carriel">
